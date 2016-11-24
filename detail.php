@@ -6,11 +6,10 @@
     <?php include 'inc/head_common.php';?>
 
   </head>
-  <body>
+  <body>  	 
      <?php include 'inc/header.php';?>
-  	 <h1>Estilo Bootstrap</h1>
-     <p>Hola Mundo</p> 
-     
+     <h1>Estilo Bootstrap</h1>
+     <p>Hola Mundo Detail</p>
     <?php include 'inc/footer_common.php';?>
   </body>
 </html>
