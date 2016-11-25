@@ -3,7 +3,9 @@
   <head>
     <meta charset="UTF-8">
   	<title>Pagina con Bootstrap 3</title>
+
     <?php include 'inc/head_common.php';?>
+    <link rel="stylesheet" href="css/workshop.css">
 
   </head>
   <body>
@@ -24,7 +26,7 @@
      			</div>
      		</div>
      	</article>
-     	 <article id="w2" class="workshop workshop-rigth">
+     	 <article id="w2" class="workshop workshop-right">
      		<div class="row">
      			<div class="col-xs-3 date-info">
      				<h3 class="highlinghted"><strong>W21 </strong>10/14 de Abril</h3>

@@ -1,3 +1,4 @@
+<footer>
 <div class="container">
 	<div class="row">
 		<div class="col-xs-5">
@@ -30,6 +31,7 @@
 			 are being built with Bootstrap. Get started
 			  on your own with our growing collection of examples or 
 			  by exploring some of our favorites.</p>
+			  
 		</div>
         <div class="col-xs-6 col-xs-offset-1">
         	<h3>¿Te gusta? Corre la voz</h3>
@@ -41,3 +43,4 @@
         </div> 
 	</div>
 </div>
+</footer>
