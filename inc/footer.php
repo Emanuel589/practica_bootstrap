@@ -8,7 +8,7 @@
 			</ul>
 		</div>
         <div class="col-xs-6 col-xs-offset-1">
-        	<h3>NO TE PIRERDAS NUESTRAS NOVEDADES</h3>
+        	<h3>NO TE PIERDAS NUESTRAS NOVEDADES</h3>
         	<form id="subscribe-form" action="">
         		<div class="row">
         			<div class="col-xs-8">

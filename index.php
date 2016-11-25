@@ -40,9 +40,7 @@
      		</div>
      	</article>
      </div>
-  	 <h1>Estilo Bootstrap</h1>
-     <p>Hola Mundo</p> 
-     <?php include 'inc/footer.php'; ?>
+  	 <?php include 'inc/footer.php'; ?>
      <?php include 'inc/footer_common.php';?>
   </body>
 </html>
