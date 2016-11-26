@@ -96,7 +96,7 @@
 }
 
 #w1 {
-	background-image: url('img/fondo-amarillo.jpg');
+	background-image: url('http://localhost/practica_bootstrap/img/fondo-amarillo.jpg');
 }
 
 #w1 p {
@@ -112,7 +112,7 @@
 }
 
 #w2 {
-	background-image: url('img/fondo-naranja.jpg');
+	background-image: url('http://localhost/practica_bootstrap/img/fondo-naranja.jpg');
 }
 
 #w2 p {
