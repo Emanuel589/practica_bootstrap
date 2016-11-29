@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
   	<title>Pagina con Bootstrap 3</title>
     <?php include 'inc/head_common.php';?>
-
+    <link rel="stylesheet" href="css/datail.css">
   </head>
   <body>  	 
      <?php include 'inc/header.php';?>
