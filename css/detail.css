@@ -160,3 +160,38 @@ section {
 	line-height: 1.8rem;
 	font-weight: 200;
 }
+
+#location-info {
+	position: relative;
+	height: 300px;
+	margin-top: 0;
+}
+
+#map-canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 300px;
+}
+
+#hotel-info {
+	height: 300px;
+
+	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255,0);
+	/* for IE8 -*/
+	--ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)';
+}
+
+#faq h4 {
+	color: #444;
+	font-weight: 700;
+}
+
+#faq p {
+	font-size: 15px;
+	font-size: 1.5rem;
+	line-height: 18px;
+	line-height: 1.8rem;
+}

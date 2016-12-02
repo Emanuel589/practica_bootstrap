@@ -129,10 +129,10 @@
        </section>
        <section id="location-info">
        <!-- Mapa de Google-->
-          <div class="map-canvas"></div>
+          <div id="map-canvas"></div>
           <div class="container">
             <div class="row">
-               <div class="col-xs-5">
+               <div id="hotel-info" class="col-xs-5">
                   <h3>¿Necesitas Alojamiento?</h3>
                   <div class="hotel">
                      <h4>Hotel Los Tajibos</h4>
@@ -186,10 +186,12 @@
      </article>
     <?php include 'inc/footer.php';?>
     <?php include 'inc/footer_common.php';?>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrbfEY533Gamh7yBhlC2UIJ183N5IXp8I&sensor=false"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script> -->
+
     <script>
         var map;
-        function initialize {
+        function initialize() {
           var mapOptions = {
             zoom: 8,
             scrollwheel: false,
