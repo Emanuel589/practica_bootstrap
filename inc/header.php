@@ -5,7 +5,7 @@
      	   	 <h1 id="main-logo"><a href="index.php"><span>WorkShop Demo Site</span></a></h1>
      	   </div>
      	   <div class="col-xs-9">
-     	   	  <ul class="nav nav-pills">
+     	   	  <ul class="nav nav-pills hidden-xs">
 				<li role="presentation" class="active"><a href="#">Home</a></li>
 				<li class="dropdown">
 				  <a class="dropdown-toggle" data-toggle="dropdown" href="#">Profile<span class="caret"></span></a>
@@ -19,7 +19,20 @@
 			    <li role="presentation"><a href="#">About</a></li>
 			    <li role="presentation"><a href="#">Contac</a></li>
 		      </ul>
+		      <a href="#" id="mobile-menu-button" class="btn btn-default visible-xs">
+		      	<span class="glyphicon glyphicon-th-list"></span>
+		      </a>
 			</div> 	
      	</div>
+</div>
+<div class="visible-xs">
+	<ul class="mobile-main-menu">
+		<li><a href="detail.php">Opcion 1</a></li>
+		<li><a href="detail.php">Opcion 2</a></li>
+		<li><a href="detail.php">Opcion 3</a></li>
+		<li role="presentation"><a href="#">Messages</a></li>
+		<li role="presentation"><a href="#">About</a></li>
+		<li role="presentation"><a href="#">Contac</a></li>
+	</ul>
 </div>
 </header>
