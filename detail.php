@@ -20,7 +20,7 @@
        </header>
        <div class="container">
          <div class="row">
-           <div class="col-xs-7">
+           <div class="col-xs-12 col-sm-7">
              <section id="intro">
                <h3>En este workshop aprenderas...</h3>
                <p>Los pre-procesadores son herramientas que nos 
@@ -30,26 +30,26 @@
              <section id="trainer-list">
                <h3>Los Formadores</h3>
                <div class="trainer row">
-                 <div class="col-xs-4">
+                 <div class="col-xs-12 col-sm-4">
                    <img src="img/Benito_Mussolini.jpg" width="50%" height= ="50%" alt="Benito Mossolini">
                  </div>
-                 <div class="col-xs-8">
+                 <div class="col-xs-12 col-sm-8">
                    <h4>Benito Mossolini</h4>
                    <p>Aca pongo datos personales del formador.</p>
                  </div>
                </div>
                <div class="trainer row">
-                 <div class="col-xs-4">
+                 <div class="col-xs-12 col-sm-4">
                    <img src="img/alex-gonzales.jpg" width="50%" height="50%" alt="Alex Gonzales">
                  </div>
-                 <div class="col-xs-8">
+                 <div class="col-xs-12 col-sm-8">
                    <h4>Alex Gonzales</h4>
                    <p>Aca pongo datos personales del formador.</p>
                  </div>
                </div>
              </section>
             </div>
-            <div class="col-xs-5">
+            <div class="col-xs-12 col-sm-5">
             <section id="registration">
                 <h3>Registro</h3>
                 <p>Hay varios pre-procesadores disponibles para nosotros, siendo los más comunes Sass (con SCSS) y LESS. En este artículo, como ya lo habrás adivinado, hablaremos de Sass que es el que acostumbro a usar.</p>
@@ -87,7 +87,7 @@
                 <div class="col-xs-12">
                   <h3>Indice de Contenidos</h3>
                 </div>
-                <div class="col-xs-4">
+                <div class="col-xs-12 col-sm-4">
                   <h4>1.- Frameworks Front-End</h4>
                   <ul>
                     <li>Item indice primero</li>
@@ -102,7 +102,7 @@
                     <li>Item indice tercero</li>
                   </ul>
                 </div>
-                <div class="col-xs-4">
+                <div class="col-xs-12 col-sm-4">
                    <h4>3.- Frameworks Front-End</h4>
                   <ul>
                     <li>Item indice primero</li>
@@ -116,7 +116,7 @@
                     <li>Item indice tercero</li>
                   </ul>
                 </div>
-                <div class="col-xs-4">
+                <div class="col-xs-12 col-sm-4">
                    <h4>5.- Frameworks Front-End</h4>
                    <ul>
                     <li>Item indice primero</li>
@@ -132,7 +132,7 @@
           <div id="map-canvas"></div>
           <div class="container">
             <div class="row">
-               <div id="hotel-info" class="col-xs-5">
+               <div id="hotel-info" class="col-xs-12 col-sm-5 col-sm-offset-2">
                   <h3>¿Necesitas Alojamiento?</h3>
                   <div class="hotel">
                      <h4>Hotel Los Tajibos</h4>
@@ -154,27 +154,28 @@
              <div class="row">
                 <div class="col-xs-12">
                    <h3>Preguntas Frecuentes</h3>
-                   <div class="col-xs-4">
+                   <div class="col-xs-12 col-sm-6 col-md-4">
                      <h4>Primer preguntas</h4>
                      <p>Las respuestas se veran en este apartado. Por el momemo no tenemos nada. </p>
                    </div>
-                   <div class="col-xs-4">
+                   <div class="col-xs-12 col-sm-6 col-md-4">
                      <h4>Segunda preguntas</h4>
                      <p>Las respuestas se veran en este apartado. Por el momemo no tenemos nada. </p>
                    </div>
-                   <div class="col-xs-4">
+                   <div class="col-xs-12 col-sm-6 col-md-4">
                      <h4>Tercera preguntas</h4>
                      <p>Las respuestas se veran en este apartado. Por el momemo no tenemos nada. </p>
                    </div>
-                   <div class="col-xs-4">
+                   <div class="col-xs-12 col-sm-6 col-md-4">
                      <h4>Cuarta preguntas</h4>
                      <p>Las respuestas se veran en este apartado. Por el momemo no tenemos nada. </p>
                    </div>
-                   <div class="col-xs-4">
+                   <div class="clearfix hidden-md hidden-lg"></div>
+                   <div class="col-xs-12 col-sm-6 col-md-4">
                      <h4>Quinta preguntas</h4>
                      <p>Las respuestas se veran en este apartado. Por el momemo no tenemos nada. </p>
                    </div>
-                   <div class="col-xs-4">
+                   <div class="col-xs-12 col-sm-6 col-md-4">
                      <h4>Sexta preguntas</h4>
                      <p>Las respuestas se veran en este apartado. Por el momemo no tenemos nada. </p>
                    </div>
